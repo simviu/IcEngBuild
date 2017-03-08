@@ -19,7 +19,7 @@ by the project files provided in IcEng.
 winDepLib.zip is the windows dependency library, contatin FreeGlut and Glew binary,
 which is needed for building IcEng App on windows. Download and unzip winDepLib.zip into IcEng/proj/windows/ for Visual Studio to find them.
 You can also download FreeGlut and Glew yourself,
-and re-orgnized the directory and files structure in same way, for the convenience of project setting of Visual Studio.
+and re-orgnize the directory and files structure in same way, for the convenience of project setting of Visual Studio.
 
 # License
 Free BSD license, check LICENSE file.
